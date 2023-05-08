@@ -4,7 +4,7 @@ const CTA = () => {
   return (
     <div className="cta">
       <a
-        href="https://docs.google.com/document/d/17kV1ztGsh4aYztSSF0R2MrmS4gt_AfAgtkFcGPHgsy0/edit?usp=sharing"
+        href="https://docs.google.com/document/d/1_3ulKIBHQfPAuIfLUujLt-h0mMTEd7NYTr8shOsUW6Q/edit?usp=sharing"
         className="btn"
       >
         View Resume
